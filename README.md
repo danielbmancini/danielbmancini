@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danielbmancini - I'm a statistics major @ Universidade de São Paulo, Brazil.
-- 👀 I’m interested in Java, R, statistics and data science.
+- 👀 I’m interested in statistics, Java, R, data science and the Go board game.
 - 🌱 I’m currently learning R, data science and probability theory.
 - 📫 How to reach me - at my college email, danielbmancini@usp.br
