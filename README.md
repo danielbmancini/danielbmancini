@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danielbmancini 
-- 👀 I’m interested in math, algorithms, Java, and the Go board game.
-- 🌱 I’m currently learning Java, Python, together with algorithmic problems, as always.
+- 👀 I’m interested in automation, esp. related to  the office (actual) envinroment.
+- 🌱 I’m currently gauging cloud APIs (mainly google cloud and azure) for relevant purposes.
 - 📫 How to reach me - at my email, danielbmancini@gmail.com
