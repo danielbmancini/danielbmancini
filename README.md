@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danielbmancini 
-- 👀 I’m interested in automation, esp. related to  the office (actual) envinroment.
-- 🌱 I’m currently gauging cloud APIs (mainly google cloud and azure) for relevant purposes.
-- 📫 How to reach me - at my email, danielbmancini@gmail.com
+- 👀 I’m currently interested in programming problems, backend tecnologies (actually Java and its children), and our dear Linux tools such as awk.
+- 🌱 Currently avoiding Python.
+- 📫 How to reach me - at my email, danielbmancini.work@gmail.com
