@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danielbmancini 
-- 👀 I’m currently interested in programming problems, backend tecnologies (actually Java and its children), and our dear Linux tools such as awk.
-- 🌱 Currently avoiding Python.
-- 📫 How to reach me - at my email, danielbmancini.work@gmail.com
+- 👀 I’m currently interested in optimizing accounting/office problems' solutions.
+- 🌱 Am not throwing Big Tech at the wall and seeing what sticks.
+- 📫 How to reach me - at my email, danielbmancini@gmail.com
