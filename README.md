@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danielbmancini 
-- 👀 I’m currently interested in optimizing accounting/office problems' solutions.
+- 👀 I’m currently interested in optimizing econ/office problems' solutions.
 - 🌱 Am not throwing Big Tech at the wall and seeing what sticks.
 - 📫 How to reach me - at my email, danielbmancini@gmail.com
